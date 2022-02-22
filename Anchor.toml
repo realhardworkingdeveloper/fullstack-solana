@@ -7,7 +7,7 @@ fullstack_solana = "14DsznRiz2EztSCCWvzv4KdS7TtyjEMjkbKqxr5ui8vh"
 url = "https://anchor.projectserum.com"
 
 [provider]
-cluster = "localnet"
+cluster = "devnet"
 wallet = "/home/peterchen3/.config/solana/id.json"
 
 [scripts]
